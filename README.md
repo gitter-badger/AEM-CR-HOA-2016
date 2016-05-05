@@ -2,5 +2,5 @@
 Auditorium Ennio Morricone - Control Room - Hoa Library - 2016
 
 ## branch todolist
-- [] basic maxpat with hoa.map
-- [] remote control of XYZ
+- [ ] basic maxpat with hoa.map
+- [ ] remote control of XYZ
